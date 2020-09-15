@@ -3,7 +3,7 @@
   <title>Skyler's Resume</title>
 </head>
   <body style="width:100%; height:100%; margin:0;">
-    <iframe src="./SkylerLiu_Resume.pdf" width="100% height=100%"></iframe>
+    <iframe src="https://github.com/skyliu10/resume/raw/master/SkylerLiu_Resume.pdf" width="100% height=100%"></iframe>
   </body>
 </html>
 
